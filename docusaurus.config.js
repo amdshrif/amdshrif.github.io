@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'amdshrif.github.io', // Usually your GitHub org/user name.
-  projectName: 'amdshrif', // Usually your repo name.
+  organizationName: 'amdshrif', // Usually your GitHub org/user name.
+  projectName: 'amdshrif.github.io', // Usually your repo name.
   deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
